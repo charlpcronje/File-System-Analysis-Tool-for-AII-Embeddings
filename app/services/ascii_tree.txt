@@ -1,0 +1,2 @@
+├── combined_maven_files.txt (Lines: 92, Words: 96, Tokens: 2631)
+├── pom.xml (Lines: 91, Words: 96, Tokens: 2629)
